@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SISTEMA ESTACIONAMENTO CSHARP/1.0.0": {
+        "runtime": {
+          "SISTEMA ESTACIONAMENTO CSHARP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SISTEMA ESTACIONAMENTO CSHARP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

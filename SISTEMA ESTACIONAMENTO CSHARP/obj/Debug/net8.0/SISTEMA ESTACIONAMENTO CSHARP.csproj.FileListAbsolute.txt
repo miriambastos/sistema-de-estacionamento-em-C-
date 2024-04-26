@@ -1,0 +1,14 @@
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\bin\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.exe
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\bin\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.deps.json
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\bin\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.runtimeconfig.json
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\bin\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.dll
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\bin\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.pdb
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\obj\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\obj\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.AssemblyInfoInputs.cache
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\obj\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.AssemblyInfo.cs
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\obj\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\obj\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.dll
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\obj\Debug\net8.0\refint\SISTEMA ESTACIONAMENTO CSHARP.dll
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\obj\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.pdb
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\obj\Debug\net8.0\SISTEMA ESTACIONAMENTO CSHARP.genruntimeconfig.cache
+C:\Users\madra\OneDrive\Área de Trabalho\SISTEMA ESTACIONAMENTO CSHARP\obj\Debug\net8.0\ref\SISTEMA ESTACIONAMENTO CSHARP.dll
